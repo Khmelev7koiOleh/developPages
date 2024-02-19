@@ -1,5 +1,4 @@
-@media only screen and (max-width: 600px)
-body {
+@media only screen and (max-width: 600px) body {
 	background: #ffff;
 	width: auto;
 	overflow-x: hidden;
@@ -8,7 +7,7 @@ body {
 .wrapper {
 }
 .top__wrapper {
-	background-image: url(.../src/assets/img/mainFoto.png);
+	background-image: url("./src/assets/img/mainFoto.png");
 	background-size: 100% 100%;
 	min-height: 850px;
 }
@@ -206,7 +205,7 @@ body {
 	margin-left: -23px;
 	width: 18px;
 	height: 18px;
-	background-image: url(./src/assets/details/calendar\ 1.svg);
+	background-image: url("./src/assets/details/calendar\ 1.svg");
 
 	background-size: 18px 18px;
 }
@@ -221,7 +220,7 @@ body {
 	margin-left: -23px;
 	width: 18px;
 	height: 18px;
-	background-image: url(./src/assets/details/clock\ 1.svg);
+	background-image: url("./src/assets/details/clock\ 1.svg");
 
 	background-size: 18px 18px;
 }
