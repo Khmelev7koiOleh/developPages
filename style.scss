@@ -8,7 +8,7 @@ body {
 .wrapper {
 }
 .top__wrapper {
-	background-image: url(./src/assets/img/mainFoto.png);
+	background-image: url(.../src/assets/img/mainFoto.png);
 	background-size: 100% 100%;
 	min-height: 850px;
 }
@@ -206,7 +206,7 @@ body {
 	margin-left: -23px;
 	width: 18px;
 	height: 18px;
-	background-image: url(/src/assets/details/calendar\ 1.svg);
+	background-image: url(./src/assets/details/calendar\ 1.svg);
 
 	background-size: 18px 18px;
 }
@@ -221,7 +221,7 @@ body {
 	margin-left: -23px;
 	width: 18px;
 	height: 18px;
-	background-image: url(/src/assets/details/clock\ 1.svg);
+	background-image: url(./src/assets/details/clock\ 1.svg);
 
 	background-size: 18px 18px;
 }
@@ -245,7 +245,7 @@ body {
 	margin-left: -20px;
 	width: 18px;
 	height: 18px;
-	background-image: url(/src/assets/details/map\ \(1\)\ 1.svg);
+	background-image: url(./src/assets/details/map\ \(1\)\ 1.svg);
 
 	background-size: 18px 18px;
 }
@@ -260,7 +260,7 @@ body {
 	margin-left: -20px;
 	width: 18px;
 	height: 18px;
-	background-image: url(/src/assets/details/phone\ \(1\)\ 1.svg);
+	background-image: url(./src/assets/details/phone\ \(1\)\ 1.svg);
 
 	background-size: 18px 18px;
 }
@@ -744,7 +744,7 @@ body {
 	width: 400px;
 	height: 800px;
 
-	background-image: url("/src/assets/img/idk.png");
+	background-image: url("./src/assets/img/idk.png");
 
 	background-size: 400px 800px;
 }
@@ -936,7 +936,7 @@ body {
 	position: absolute;
 	left: -25px;
 	bottom: -1px;
-	background-image: url("/src/assets/details/phone\ \(2\)\ 1.svg");
+	background-image: url("./src/assets/details/phone\ \(2\)\ 1.svg");
 	background-repeat: no-repeat;
 }
 .adress {
@@ -954,6 +954,6 @@ body {
 	position: absolute;
 	left: -30px;
 	bottom: 0px;
-	background-image: url("/src/assets/details/map\ \(2\)\ 1.svg");
+	background-image: url("./src/assets/details/map\ \(2\)\ 1.svg");
 	background-repeat: no-repeat;
 }
