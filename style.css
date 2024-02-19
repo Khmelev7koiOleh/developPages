@@ -104,14 +104,6 @@ body {
 }
 
 .burger__menu.die {
-  position: fixed;
-  bottom: 100%;
-  width: 100%;
-  min-height: 100vh;
-  z-index: -9;
-  padding-top: 120px;
-  -webkit-transition: 3s;
-  transition: 3s;
   display: block;
   background: #000000;
   color: wheat;
