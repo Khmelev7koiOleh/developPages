@@ -65,7 +65,7 @@ body {
   padding-right: 50px;
   line-height: 11px;
   list-style-type: none;
-  background: #FFFFFF;
+  background: #ffffff;
 }
 
 .burger li {
@@ -143,90 +143,6 @@ body {
 .burger__item1 {
   font-size: 25px;
   font-weight: 600;
-}
-
-.burger__item1:hover {
-  font-size: 26px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(45, 147, 230);
-}
-
-.burger__item2:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item3:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item3:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item4:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item5:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item6:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item-calendar:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item-clock:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item-map:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item-phone:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
-}
-
-.burger__item-country:hover {
-  font-size: 21px;
-  font-weight: 600;
-  text-shadow: 1px 1px 10px rgb(5, 48, 21);
-  color: rgb(35, 122, 67);
 }
 
 .container {
@@ -312,7 +228,7 @@ body {
 
 .header__item-blockone {
   font-family: Arial, Helvetica, sans-serif;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 300;
   padding-left: 87px;
@@ -353,7 +269,7 @@ body {
 
 .header__item-blocktwo {
   font-family: Arial, Helvetica, sans-serif;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 300;
   padding-left: 40px;
@@ -402,7 +318,7 @@ body {
 
 .header__item-country {
   font-family: Arial, Helvetica, sans-serif;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 14px;
   font-weight: 400;
   padding-right: 1px;
@@ -488,7 +404,7 @@ body {
   font-size: 40px;
   font-weight: 700;
   line-height: 65px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 10px;
 }
 
@@ -506,7 +422,7 @@ body {
   font-size: 18px;
   font-weight: 700;
   line-height: 25px;
-  color: #FFFFFF;
+  color: #ffffff;
   margin-bottom: 25px;
 }
 
@@ -514,12 +430,12 @@ body {
   font-family: "Bebas Neue", sans-serif;
   width: 180px;
   height: 60px;
-  background: #1D59A0;
+  background: #1d59a0;
   font-weight: 400;
   font-size: 12px;
   line-height: 24px;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .dots {
@@ -558,7 +474,7 @@ body {
 .why {
   width: auto;
   height: 221px;
-  background: #1D59A0;
+  background: #1d59a0;
 }
 
 .why__body {
@@ -578,7 +494,7 @@ body {
   width: 170px;
   height: 231px;
   margin: 0 29px;
-  background: #D7E5F5;
+  background: #d7e5f5;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 400;
@@ -699,7 +615,7 @@ body {
   position: relative;
   width: 805px;
   height: 699px;
-  background: #1D59A0;
+  background: #1d59a0;
 }
 
 .description__items {
@@ -766,7 +682,7 @@ body {
 .service__items {
   width: 0px;
   height: 0px;
-  background: #D7E5F5;
+  background: #d7e5f5;
 }
 
 .serveblock__one {
@@ -802,7 +718,7 @@ body {
 .service__item-one {
   min-width: 200px;
   min-height: 200px;
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 30px 30px 0;
   text-align: center;
 }
@@ -828,7 +744,7 @@ body {
 }
 
 .service__items-two {
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 30px 30px 0;
   text-align: center;
 }
@@ -838,25 +754,25 @@ body {
 }
 
 .service__items-three {
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 0 30px 0;
   text-align: center;
 }
 
 .service__items-four {
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 30px 0 0;
   text-align: center;
 }
 
 .service__items-five {
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 30px 0 0;
   text-align: center;
 }
 
 .service__items-six {
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin-bottom: 0 0 0 0;
   text-align: center;
 }
@@ -878,16 +794,16 @@ body {
   right: 0.1px;
   width: 539px;
   height: 550px;
-  background: #1D59A0;
+  background: #1d59a0;
 }
 
 .bluebox__button {
   margin: 0 0 64px 0;
   width: 200px;
   height: 60px;
-  background: #0E3367;
+  background: #0e3367;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .advertisement {
@@ -996,8 +912,8 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 400;
-  background: #1D59A0;
-  color: #FFFFFF;
+  background: #1d59a0;
+  color: #ffffff;
   height: 40px;
   width: 220px;
 }
@@ -1040,7 +956,7 @@ body {
   display: flex;
   width: 370px;
   height: 206px;
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 30px 0 0px;
 }
 
@@ -1050,7 +966,7 @@ body {
   display: flex;
   width: 370px;
   height: 206px;
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 30px 0 0;
 }
 
@@ -1060,13 +976,13 @@ body {
   display: flex;
   width: 370px;
   height: 206px;
-  background: #D7E5F5;
+  background: #d7e5f5;
   margin: 0 0px 0 0;
 }
 
 .reviews__background {
   height: 206px;
-  background: #1D59A0;
+  background: #1d59a0;
   position: relative;
   bottom: 150px;
   z-index: 9;
@@ -1125,7 +1041,7 @@ body {
       -ms-flex-align: center;
           align-items: center;
   height: 120px;
-  background: #D7E5F5;
+  background: #d7e5f5;
 }
 
 .footer__block-one {
