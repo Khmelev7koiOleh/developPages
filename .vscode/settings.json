@@ -1,0 +1,19 @@
+{
+	"liveServer.settings.ChromeDebuggingAttachment": false,
+	"liveServer.settings.port": 0,
+	"liveServer.settings.fullReload": false,
+	"liveServer.settings.root": "",
+	"liveSassCompile.settings.includeItems": [],
+	"liveSassCompile.settings.useNewCompiler": false,
+	"liveSassCompile.settings.compileOnWatch": true,
+	"liveSassCompile.settings.forceBaseDirectory": "",
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": null,
+			"savePathReplacementPairs": null
+		}
+	],
+	"liveSassCompile.settings.generateMap": true
+}
